@@ -1,2 +1,2 @@
-# EasyAuth-doc
-A recreation of EasyAuth doc
+# ModernAuth-doc
+A recreation of ModernAuth doc
