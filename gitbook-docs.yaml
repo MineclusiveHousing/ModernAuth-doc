@@ -1,0 +1,18 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: ModernAuth
+  structure:
+    - type: section
+      key: documentation
+      title: Documentation
+      path: documentation
+      default: true
+      children:
+        - type: space
+          key: modernauth
+          title: ModernAuth
+          path: docs
+          default: true
+          content:
+            directory: ./docs
+            language: en
